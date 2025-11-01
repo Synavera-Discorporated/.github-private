@@ -8,7 +8,7 @@
 ---
 
 ### About  
-**Synavera (Discorporated)** is an independent software development and research entity dedicated to building systems that explain themselves.  
+**synavera_discorporated** is an independent software development and research entity dedicated to building systems that explain themselves.  
 Every project released under the Synavera banner follows one unbreakable rule: **clarity is security**.  
 
 We design tools, frameworks, and protocols that are transparent by nature — auditable, modular, and answerable to their users.  
