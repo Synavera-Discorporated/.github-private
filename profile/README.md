@@ -1,5 +1,6 @@
-# **Synavera (Discorporated)**
-### _Transparent Systems for Empowered Users_
+<img width="1536" height="485" alt="gitbanner" src="https://github.com/user-attachments/assets/4de50ec9-d054-42b8-9328-1dac8178e69f" />
+
+
 
 ---
 
